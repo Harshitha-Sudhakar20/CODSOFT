@@ -24,8 +24,12 @@ section {
 }
 
 .about-content img {
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
+    object-fit: cover;
     margin-bottom: 20px;
+    border: 3px solid #2563eb;
 }
 
 .skills ul {
