@@ -8,5 +8,5 @@
 
 ### 🔗 Live Demos
 - **Portfolio:** https://harshitha-sudhakar20.github.io/CODSOFT/portfolio/
-- **Landing Page:** https://harshitha-sudhakar20.github.io/CODSOFT/
+- **Landing Page:** https://harshitha-sudhakar20.github.io/CODSOFT/landingpage/
 - **Calculator:** https://harshitha-sudhakar20.github.io/CODSOFT/calculator/
