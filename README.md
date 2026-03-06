@@ -1,5 +1,10 @@
 # CodSoft Web Development Internship 🚀
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![GitHub Pages](https://img.shields.io/badge/Deployment-GitHub%20Pages-black)
+
 This repository contains the projects I developed during the **CodSoft Web Development Internship (Level 1 Tasks)**.
 
 ## 📂 Projects
