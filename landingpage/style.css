@@ -15,6 +15,7 @@ color:#333;
 line-height:1.6;
 }
 
+
 /* HEADER */
 
 header{
@@ -26,10 +27,6 @@ justify-content:space-between;
 align-items:center;
 }
 
-header h1{
-font-size:26px;
-}
-
 header nav ul{
 display:flex;
 gap:25px;
@@ -39,7 +36,6 @@ list-style:none;
 header nav a{
 color:white;
 text-decoration:none;
-font-size:16px;
 font-weight:500;
 transition:0.3s;
 }
@@ -47,6 +43,7 @@ transition:0.3s;
 header nav a:hover{
 color:#60a5fa;
 }
+
 
 /* HERO SECTION */
 
@@ -58,7 +55,7 @@ color:white;
 }
 
 .hero h2{
-font-size:40px;
+font-size:44px;
 margin-bottom:10px;
 }
 
@@ -83,6 +80,7 @@ background:#e5e7eb;
 transform:scale(1.05);
 }
 
+
 /* FEATURES */
 
 .features{
@@ -91,6 +89,7 @@ justify-content:center;
 gap:30px;
 padding:80px 20px;
 flex-wrap:wrap;
+background:#f9fafb;
 }
 
 .card{
@@ -103,7 +102,9 @@ box-shadow:0 10px 25px rgba(0,0,0,0.08);
 transition:all 0.3s ease;
 }
 
-.card h3{
+.card i{
+font-size:32px;
+color:#2563eb;
 margin-bottom:10px;
 }
 
@@ -111,27 +112,30 @@ margin-bottom:10px;
 transform:translateY(-8px);
 }
 
+
 /* ABOUT */
 
 .about{
 padding:80px 20px;
 background:white;
 text-align:center;
-max-width:900px;
+max-width:800px;
 margin:auto;
 }
 
 .about h2{
-font-size:30px;
 margin-bottom:15px;
 }
+
 
 /* CONTACT */
 
 .contact{
 text-align:center;
 padding:60px 20px;
+background:#f9fafb;
 }
+
 
 /* FOOTER */
 
@@ -143,7 +147,8 @@ color:white;
 margin-top:40px;
 }
 
-/* MOBILE RESPONSIVE */
+
+/* MOBILE */
 
 @media(max-width:768px){
 
@@ -153,13 +158,13 @@ text-align:center;
 }
 
 header nav ul{
-margin-top:10px;
 flex-direction:column;
 gap:10px;
+margin-top:10px;
 }
 
 .hero h2{
-font-size:28px;
+font-size:30px;
 }
 
 .features{
