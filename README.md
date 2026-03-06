@@ -1,12 +1,57 @@
-# CODSOFT
+# CodSoft Web Development Internship 🚀
 
-## Level 1 Tasks – CodSoft Web Development Internship
+This repository contains the projects I developed during the **CodSoft Web Development Internship (Level 1 Tasks)**.
 
-- **Task 1:** Portfolio (HTML, CSS)  
-- **Task 2:** Landing Page (HTML, CSS)  
-- **Task 3:** Calculator (HTML, CSS, JavaScript)
+## 📂 Projects
 
-### 🔗 Live Demos
-- **Portfolio:** https://harshitha-sudhakar20.github.io/CODSOFT/portfolio/
-- **Landing Page:** https://harshitha-sudhakar20.github.io/CODSOFT/landingpage/
-- **Calculator:** https://harshitha-sudhakar20.github.io/CODSOFT/calculator/
+### 1️⃣ Portfolio Website
+A personal portfolio website showcasing my skills, projects, and experience.
+
+**Technologies Used**
+- HTML
+- CSS
+
+🔗 Live Demo  
+https://harshitha-sudhakar20.github.io/CODSOFT/portfolio/
+
+---
+
+### 2️⃣ Landing Page
+A responsive landing page designed using HTML and CSS.
+
+**Features**
+- Clean UI layout
+- Responsive design
+- Multiple sections (Home, Features, About, Contact)
+
+🔗 Live Demo  
+https://harshitha-sudhakar20.github.io/CODSOFT/landingpage/
+
+---
+
+### 3️⃣ Calculator
+A simple calculator web application built using HTML, CSS, and JavaScript.
+
+**Features**
+- Basic arithmetic operations
+- Interactive buttons
+- Clean interface
+
+🔗 Live Demo  
+https://harshitha-sudhakar20.github.io/CODSOFT/calculator/
+
+---
+
+## 🛠 Technologies Used
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+---
+
+## 👩‍💻 Author
+
+**Harshitha**  
+Computer Science Student  
+Web Development Intern at CodSoft
