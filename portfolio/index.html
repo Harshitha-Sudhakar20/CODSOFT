@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-
 <link rel="stylesheet"
 href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@2.3.1/dist/aos.css"/>
 </head>
 <body>
 
-<section class="hero">
+<section class="hero" data-aos="fade-down">
 
 <h1>Hi, I'm Harshitha 👋</h1>
 
@@ -19,7 +19,7 @@ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
 
 </section>
 
-<section id="about">
+<section id="about" data-aos="fade-up">
 
 <h2>About Me</h2>
 
@@ -36,7 +36,7 @@ the CodSoft Web Development Internship.
 </p>
 
 </section>
-    <section id="education">
+    <section id="education" data-aos="fade-up">
 
 <h2>Education</h2>
 
@@ -50,7 +50,7 @@ the CodSoft Web Development Internship.
 
 </section>
 
-<section id="skills">
+<section id="skills" data-aos="zoom-in">
 
 <h2>Technical Skills</h2>
 
@@ -84,7 +84,7 @@ the CodSoft Web Development Internship.
 
 </section>
 
-<section id="projects">
+<section id="projects" data-aos="fade-up">
 
 <h2>Projects</h2>
 
@@ -113,7 +113,7 @@ Live Demo
 </div>
 
 </section>
-    <section id="experience">
+    <section id="experience" data-aos="fade-up">
 
 <h2>Experience</h2>
 
@@ -132,12 +132,12 @@ and calculator using HTML, CSS, and JavaScript.
 
 </section>
 
-<section class="resume">
+<section id="resume" data-aos="zoom-in">
     <h2>Resume</h2>
     <a href="#" class="btn">Download Resume</a>
 </section>
 
-<section id="contact">
+<section id="contact" data-aos="fade-up">
 
 <h2>Contact</h2>
 
@@ -160,6 +160,10 @@ and calculator using HTML, CSS, and JavaScript.
 <footer>
     <p>© 2026 Harshitha</p>
 </footer>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
+<script>
+AOS.init();
+</script>
 </body>
 </html>
