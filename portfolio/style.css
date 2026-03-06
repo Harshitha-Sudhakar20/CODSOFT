@@ -47,12 +47,26 @@ transition:0.3s;
 transform:scale(1.05);
 }
 
-.skill-bar{
-height:10px;
-background:#ddd;
-border-radius:10px;
-margin:10px auto 20px;
-width:80%;
+.skills-container{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:12px;
+margin-top:20px;
+}
+
+.skill{
+background:#2563eb;
+color:white;
+padding:8px 16px;
+border-radius:20px;
+font-size:14px;
+transition:0.3s;
+}
+
+.skill:hover{
+background:#1e40af;
+transform:scale(1.05);
 }
 
 .html{width:90%; background:#2563eb;}
